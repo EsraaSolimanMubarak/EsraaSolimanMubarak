@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EsraaSolimanMubarak
 - 👀 I’m interested in Tech
-- 🌱 I’m currently learning Computer science 
+- 🌱 I’m currently a Computer science student
 - 💞️ I’m looking to collaborate on Software engineering projects 
 - 📫 How to reach me esraa.soliman.mubarak@gmail.com
 - 😄 Pronouns: Izra
